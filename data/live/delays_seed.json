@@ -1,0 +1,65 @@
+[
+  {
+    "route_id": "B10",
+    "vehicle_id": "BUS100",
+    "stop_id": "ST01",
+    "actual_arrival": "2025-11-15T08:02:00",
+    "delay_minutes": 2
+  },
+  {
+    "route_id": "B10",
+    "vehicle_id": "BUS100",
+    "stop_id": "ST02",
+    "actual_arrival": "2025-11-15T08:17:00",
+    "delay_minutes": 2
+  },
+  {
+    "route_id": "B10",
+    "vehicle_id": "BUS100",
+    "stop_id": "ST03",
+    "actual_arrival": "2025-11-15T08:30:00",
+    "delay_minutes": 0
+  },
+  {
+    "route_id": "B10",
+    "vehicle_id": "BUS101",
+    "stop_id": "ST01",
+    "actual_arrival": "2025-11-15T09:10:00",
+    "delay_minutes": 10
+  },
+  {
+    "route_id": "B10",
+    "vehicle_id": "BUS101",
+    "stop_id": "ST02",
+    "actual_arrival": "2025-11-15T09:28:00",
+    "delay_minutes": 13
+  },
+  {
+    "route_id": "B10",
+    "vehicle_id": "BUS101",
+    "stop_id": "ST03",
+    "actual_arrival": "2025-11-15T09:52:00",
+    "delay_minutes": 22
+  },
+  {
+    "route_id": "B20",
+    "vehicle_id": "BUS200",
+    "stop_id": "ST10",
+    "actual_arrival": "2025-11-15T08:03:00",
+    "delay_minutes": -2
+  },
+  {
+    "route_id": "B20",
+    "vehicle_id": "BUS200",
+    "stop_id": "ST11",
+    "actual_arrival": "2025-11-15T08:32:00",
+    "delay_minutes": 7
+  },
+  {
+    "route_id": "B20",
+    "vehicle_id": "BUS200",
+    "stop_id": "ST12",
+    "actual_arrival": "2025-11-15T08:55:00",
+    "delay_minutes": 10
+  }
+]
