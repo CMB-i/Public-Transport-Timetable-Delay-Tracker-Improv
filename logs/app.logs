@@ -1,0 +1,8 @@
+example:
+2025-11-25 18:13:13 [INFO] Wrote summary CSV /Users/devbayana/Desktop/train-timetable-tracker/reports/csv/summary_2025-11-25.csv
+2025-11-25 18:13:13 [INFO] Generated chart /Users/devbayana/Desktop/train-timetable-tracker/reports/charts/chart_2025-11-25.png
+2025-11-25 18:22:29 [INFO] Fetched (from seed) -> /Users/devbayana/Desktop/train-timetable-tracker/data/live/delays_20251125_182229.json, normalized -> /Users/devbayana/Desktop/train-timetable-tracker/data/live/delays_20251125_182229.csv
+2025-11-25 18:22:29 [INFO] Computed delays into /Users/devbayana/Desktop/train-timetable-tracker/data/processed/delays_2025-11-25.csv from /Users/devbayana/Desktop/train-timetable-tracker/data/live/delays_20251125_182229.csv
+2025-11-25 18:22:29 [INFO] Wrote summary CSV /Users/devbayana/Desktop/train-timetable-tracker/reports/csv/summary_2025-11-25.csv
+2025-11-25 18:22:29 [INFO] Generated chart /Users/devbayana/Desktop/train-timetable-tracker/reports/charts/chart_2025-11-25.png
+2025-11-25 18:22:29 [INFO] Generated HTML report /Users/devbayana/Desktop/train-timetable-tracker/reports/html/report_2025-11-25.html
